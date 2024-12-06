@@ -1,0 +1,19 @@
+.navbar{
+    background-color: #78be21;
+}
+.navbar-brand{
+    color: white
+    !important;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.logonavba{
+    margin-right:100px;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    margin-top: 140px;
+    margin-left: ;
+}
